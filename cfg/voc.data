@@ -1,0 +1,6 @@
+classes= 25
+train  = /home/user/glq/dark/Data/train.txt
+valid  = /home/user/glq/dark/Data/test1.txt
+names = /home/user/glq/darknet3/data/voc.names
+backup = backup
+
